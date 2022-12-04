@@ -1,0 +1,126 @@
+
+ @import url('https://fonts.googleapis.com/css?family=Dancing+Script&display=swap');
+ @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:700&display=swap');
+
+ /*css index*/
+
+ html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+ body {
+    color:white;
+    font-size: 1em;
+    background-color:black;
+    background-position: center;
+    box-sizing: border-box;
+}
+
+header {
+    height: 50px;
+    background-color:#007bff;
+}
+
+.container {
+   background-color: rgb(0, 0, 0, .8);
+}
+
+#radiocor { 
+	color:#fff; 
+}
+
+#botoes button {
+    margin: 5px;
+}
+
+.title {
+    color: #007bff;
+    font-family: 'Dancing Script', cursive;
+    font-size: 5em;
+    margin-bottom: 0.5em;
+}
+
+input[type="radio"] {
+    -ms-transform: scale(1.7); /* IE 9 */
+    -webkit-transform: scale(1.7); /* Chrome, Safari, Opera */
+    transform: scale(1.7);
+}
+
+.btn {
+  font-family: arial;
+  font-size:14px;
+  font-weight:700;
+  text-transform: uppercase;
+  border:none;
+  padding:10px;
+  cursor: pointer;
+  display:inline-block;
+  text-decoration: none;
+}
+
+.btn-primary{
+    background:#33332b;
+    color:white;
+    box-shadow:0 0px 0 #007bff;
+}
+.btn-primary:hover{
+    background:#232319;
+    box-shadow:0 5px 0 black;
+
+.btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show>.btn-primary.dropdown-toggle {
+    color: #fff;
+    background-color: #33332bbf;
+    border-color: #33332bbf;
+}
+
+.btn-search {
+    background:#33332b;
+    color:#ccc;
+    border: 2px solid #007bff;
+
+    line-height: -6em;
+}
+
+@media only screen and (min-width: 1000px) {
+    table th {
+        text-align: center; 
+    }
+    .table {
+        margin: auto;
+        width: 60% !important; 
+    }
+}
+
+.table-dark {
+    color: #fff;
+    background-color: #3c3c3a;
+}
+
+.input-group>.custom-select:not(:last-child), .input-group>.form-control:not(:last-child) {
+    height: 45px;
+}
+.img_error
+{
+	height:40px;
+	width:40px;
+	padding:2px;
+}
+.img_like
+{
+	height:40px;
+	width:40px;
+padding:2px;
+}
+.img_saida
+{
+	height:40px;
+	width:40px;
+padding:2px;
+}
+.tamanho
+{
+	height:auto;
+	width:200px;
+		
+}
