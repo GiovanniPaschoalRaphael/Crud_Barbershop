@@ -61,6 +61,41 @@
    
    10° TELA DE ATUALIZAÇÃO DE DADOS DO FUNCIONÁRIO 
     ![image](https://user-images.githubusercontent.com/55327081/205527884-da16d2b5-5b94-4236-afe6-1a6ba10a2a1b.png)
-     Basta atualizar os dados desejados e clicar no botão  "ATUALIZAR DADOS "
-       
+     Basta atualizar os dados desejados e clicar no botão  "ATUALIZAR DADOS "<br>
+       11°TELA  CADASTRO DE SERVIÇOS 
+     ![image](https://user-images.githubusercontent.com/55327081/205528062-4ccca383-fe78-4005-acc8-93e4d54a3e2a.png)
+      Uma tela semelhante a cadastro de funcionários porém agora com cadastro de serviços 
+      para cadastar um serviço basta por o nome e o valor!! caso  for atualizar algum dado de algum serviço clique no botão "SERVIÇOS CADASTRADOS"
+      <br>
+     12° TELA DE SERVIÇOS CADASTRADOS 
+     ![image](https://user-images.githubusercontent.com/55327081/205528206-25106ad2-fe1c-4a3d-b34f-882e026ee970.png)
+     Os serviços cadastrados irão ficar aqui caso deseje excluir vá em excluir, mas se desejar atualizar clique no icone de atulizar
+           <br>
 
+     13° TELA DE ATUALIZAÇÃO DE SERVIÇOS 
+![image](https://user-images.githubusercontent.com/55327081/205528288-0678e72e-2495-468c-aa5c-5167e14cefb0.png)
+Basta mudar o nome ou valor do serviço  que deseja atualizar
+
+14° TELA DE RELATÓRIO GERAL DE CLIENTES COMPARECIDOS 
+![image](https://user-images.githubusercontent.com/55327081/205528404-01f355be-c1ec-48bc-acb2-9a1be46fb171.png)
+Aqui irá ter o relátorio dos seguintes dados:
+Nome, <br>
+Telefone <br> 
+Serviço <br> 
+Preço <br>	
+Barbeiro <br>	
+Horário <br>	
+Quantidade de Comparecimento <br>
+pode pesquisar o cliente por nome também 
+ 
+ 15° TELA RELATÓRIO GERAL DE CLIENTES QUE NÃO COMPARECERAM  PARA O AGENDAMENTO 
+![image](https://user-images.githubusercontent.com/55327081/205528658-1c4ac3b7-a7fe-41e6-87e0-4accce50598d.png)
+Aqui irá ter o relátorio dos seguintes dados:
+Nome <br>
+Telefone <br> 
+Serviço <br>
+Preço <br>
+Barbeiro <br>	
+Horário	<br>
+Quantidade de não Comparecimento<br>
+pode pesquisar o cliente por nome também  
