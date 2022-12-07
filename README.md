@@ -144,7 +144,7 @@ pode pesquisar o cliente por nome também  <br>
  <br>
  PARA O XAMPP
  antes de tudo  abra o  xampp e ligue  deixe ele assim
- ![image](https://user-images.githubusercontent.com/55327081/205531399-0e6ff02a-0b9c-4b14-8b2d-ea82c3075f3e.png)
+ ![image](https://user-images.githubusercontent.com/55327081/205531399-0e6ff02a-0b9c-4b14-8b2d-ea82c3075f3e.png)<br>
    se o apache e o mysql  ficar verde deu tudo certo!!!<br>
 <br>
  
