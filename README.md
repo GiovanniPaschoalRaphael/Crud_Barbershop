@@ -172,7 +172,7 @@ pode pesquisar o cliente por nome também  <br>
 2° abre o site http://localhost/phpmyadmin/index.php <br>
 ![image](https://user-images.githubusercontent.com/55327081/205532427-61a0f249-9edd-43ce-8fcc-496300ff029c.png)
  <br>
- 3° crie um novo banco de dados<br>  
+ 3° crie um novo banco de dados com mesmo nome do banco de dados deste projeto <br>  
  ![image](https://user-images.githubusercontent.com/55327081/205532656-228904fd-72a9-4a97-b955-3163312702bf.png)
  <br>
  4°coloque o nome do banco de dados exatamente com este nome barbershop  e clique em importar 
