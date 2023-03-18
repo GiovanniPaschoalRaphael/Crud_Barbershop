@@ -200,5 +200,6 @@ pode pesquisar o cliente por nome também  <br>
  escreve  isso <br>
  http://localhost/barbershop/MVC/UI/paginas/index.php
  
- Prontooo o sistema está no seu computador!!!!!!
-
+ Prontooo o sistema está no seu computador!!!!!!<br>
+login:admin <br>
+senha:admin <br>
